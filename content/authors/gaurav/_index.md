@@ -1,5 +1,5 @@
 ---
-title: Siddharth Srivastava
+title: Gaurav Sharma
 role: Principal Technical Officer
 bio: "My research interests include 3D Computer Vision, Machine Learning and
   Image Processing including their applications to autonomous driving vehicles,
