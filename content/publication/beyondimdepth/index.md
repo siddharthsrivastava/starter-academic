@@ -36,7 +36,7 @@ url_pdf: https://arxiv.org/pdf/2103.08468.pdf
 url_code: https://github.com/krantiparida/beyond-image-to-depth
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://krantiparida.github.io/projects/bimgdepth.html'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -53,8 +53,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

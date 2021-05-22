@@ -37,4 +37,4 @@ user_groups:
   - ""
 highlight_name: true
 ---
-I obtained my Ph.D from Indian Institute of Technology Delhi, India under the supervision of Prof. Brejesh Lall in 2019. I am working at the Centre for Development of Advanced Computing (C-DAC), Noida, India where I currently lead R&D initiatives in developing novel machine learning and computer vision algorithms for healthcare applications.
+I obtained my Ph.D from <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi, India</a> under the supervision of <a href="https://web.iitd.ac.in/~brejesh/">Prof. Brejesh Lall</a> in 2019. I am working at the <a href="https://www.cdac.in/">Centre for Development of Advanced Computing (C-DAC), Noida, India</a> where I currently lead R&D initiatives in developing novel machine learning and computer vision algorithms for healthcare applications.
