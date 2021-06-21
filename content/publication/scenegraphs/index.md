@@ -1,8 +1,8 @@
 ---
 title: "Using Scene Graphs for Detecting Visual Relationships"
 authors:
-- admin
 - Anurag Tripathi
+- admin
 - Brejesh Lall
 - Santanu Chaudhury
 date: "2021-03-25T09:36:36+05:30"

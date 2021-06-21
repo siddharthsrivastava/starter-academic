@@ -50,10 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 <ul>
-  <li> Selected for <a href="http://cvpr2021.thecvf.com/node/184">CVPR 2021 Outstanding Reviewer</a></li>
-  <li> <a href="/publication/beyondimdepth//">1 paper</a> accepted to <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a> </li>
-  <li> <a href="/publication/geomcnn/">1 paper</a>  accepted to <a href="https://www.ieee-icra.org/"> ICRA 2021</a> </li>
-  <li> Won <a href="https://sites.google.com/iiitd.ac.in/icvgip-data-challenge/iddchallenge">IDD Challenge</a>, ICVGIP 2020 <a href="https://youtu.be/rqie9Tx4aUo?start=4158&end=4534">[Talk]</a>
-    <li> Elevated to IEEE Senior Member </li>
-    <li> Launched <a href="https://coronaindia.github.io/"> Open Source COVID19 Tracker</a></li>
+  <li> (June 2021) <a href = "http://sightsound.org/papers/2021/Kranti__K_Parida_Depth_Infused_Binaural_Audio_Generation_using_Hierarchical_Cross-Modal_Attention.pdf">One paper</a> accepted to <a href="http://sightsound.org/">CVPR 2021 Sight and Sound Workshop</a></li>
+  <li> (May 2021) Selected as a <a href="http://cvpr2021.thecvf.com/node/184">CVPR 2021 Outstanding Reviewer</a></li>
+  <li> (Feb 2021) <a href="/publication/beyondimdepth//">One paper</a> accepted to <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a> </li>
+  <li> (Feb 2021) <a href="/publication/geomcnn/">One paper</a>  accepted to <a href="https://www.ieee-icra.org/"> ICRA 2021</a> </li>
+  <li> (Jan 2021) Panel member in <a href="https://nyu-mll.github.io/nyu-ai-school-2021/schedule/#session-101">Failing at AI</a> in <a href="https://nyu-mll.github.io/nyu-ai-school-2021/">NYU AI School 2021</a> (<a href="https://www.youtube.com/watch?v=4b2oF-UIxPs">Video</a>)
+  <li> (Dec 2020) Won <a href="https://sites.google.com/iiitd.ac.in/icvgip-data-challenge/iddchallenge">IDD Challenge</a>, ICVGIP 2020 <a href="https://youtu.be/rqie9Tx4aUo?start=4158&end=4534">[Talk]</a>
+    <li> (May 2020) Elevated to IEEE Senior Member </li>
+    <li> (May 2020) Launched <a href="https://coronaindia.github.io/"> Open Source COVID19 Tracker</a></li>
 </ul>
